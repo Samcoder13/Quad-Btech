@@ -1,0 +1,25 @@
+/* .screen1{
+    padding: 0.5rem 3.5rem;
+} */
+.sc1-table{
+    margin-top: 40px;
+    width: 100%;
+}
+.table-bordered {
+    border: 5px double rgb(213, 212, 225) !important;
+  }
+table{
+    width: 100%;
+}
+
+.table-hover tbody tr:hover {
+    color: rgb(243, 243, 65) !important;
+    background-color: rgb(228, 219, 219);
+}
+.table>thead
+{
+    background-color: rgb(8, 39, 39);
+}
+
+
+

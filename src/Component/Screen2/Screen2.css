@@ -1,0 +1,66 @@
+.m-screen2{
+    height: 150vh;
+    padding: 0.5rem 3.5rem;
+    overflow: hidden;
+}
+.m-screen2>:nth-child(1)
+{
+    font-weight: bold;
+    color: rgb(141, 141, 236);
+}
+.m-screen2>:nth-child(2)
+{
+    margin-top: 40px;
+    padding-left: 4px;
+    background-color: antiquewhite;
+    border: 2px solid red ;
+    border-radius: 10px;
+}
+.link{
+    margin-top: 20px;
+    align-self: center;
+    width: 9%;
+}
+
+.movie{
+    direction: flex;
+    margin-top:50px;
+    flex-direction: column;
+ 
+   
+}
+.movie>:nth-child(1)
+{
+    color:rgb(230, 29, 29);
+    font-size:50px;
+
+}
+.movie>:nth-child(2)
+{
+    
+    margin-top: 20px;
+    
+}
+.bt{
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-size: x-large;
+    font-weight: 400;
+    margin-bottom: 40px;
+    
+
+}
+.button.bt{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.bt2{
+    margin-left: 10px;
+}
+

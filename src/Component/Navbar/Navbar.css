@@ -1,0 +1,30 @@
+.n-wrapper{
+    height: 10vh;
+    display:flex;
+    justify-content: space-between;
+    background-color: aqua;
+    width: 100%;
+}
+
+.n-wrapper>*{
+    z-index: 1;
+    width: 100%;
+}
+
+.n-left{
+    flex:1;
+    display: flex;
+    align-items: center;
+    gap:4rem;
+    padding-left: 30px;
+    width: 100%;
+}
+
+.n-name{
+    font-size: 1.3rem;
+    font-weight: bold; 
+    width: 100%;
+    
+}
+
+
